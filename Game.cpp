@@ -1,12 +1,3 @@
-/*
-Author: Kirill Kheyfets
-Course: CSCI-135
-Instructor: Tong Yi
-Assignment: Project 2
-
-minesweeper
-*/
-
 #include "Game.hpp"
 #include <iostream>
 using namespace std;

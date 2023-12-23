@@ -1,6 +1,4 @@
 //File name: /Users/laptopuser/Documents/courses/cs135/cs135_codes_f23/minecraft/TestGame.cpp
-//name: Tong Yi
-//email: ty680@hunter.cuny.edu
 #include <iostream>
 #include "Field.hpp"
 #include "Game.hpp"
